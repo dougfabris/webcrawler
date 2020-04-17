@@ -1,6 +1,6 @@
 # webcrawler
 
-a fresh boilerplate for develop pages for web
+a simple webcrawler to get data from webpages
 
 ## Table of Contents
 
@@ -9,13 +9,9 @@ a fresh boilerplate for develop pages for web
 - [Support](#support)
 - [Contributing](#contributing)
 
+## Get Started
 
-This boilerplate uses gulp as task runner. First of all install gulp:
-
-```sh
-$ npm install gulp -g
-```
-Then, install all dependencies: 
+Install all dependencies: 
 
 ```sh
 $ npm install
@@ -23,18 +19,6 @@ $ npm install
 
 ## Usage
 
-The boilerplate has a index.php like page model. You can create your own pages as your project needs. The style.css file and script.js file has been added in index.php.
-
-Gulp Plugins Included:
-
-- BrowserSync
-- Build SASS and CSS
-- SVG Sprites
-- Minify Images
-- Build JS
-- Icon Font Generator
-
-Feel free to remove **gulp plugins** that aren't applicable to your project.
 
 ## Support
 
